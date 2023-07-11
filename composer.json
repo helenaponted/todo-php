@@ -1,0 +1,9 @@
+{
+    "name": "helen/todo-php",
+    "autoload": {
+        "psr-4": {
+            "Helen\\TodoPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
